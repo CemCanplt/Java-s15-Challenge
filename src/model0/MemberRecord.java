@@ -1,6 +1,4 @@
-package model;
-
-import java.util.Collections;
+package model0;
 
 public class MemberRecord {
     private long id;
